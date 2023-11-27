@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701115496 source:c:\users\imran\desktop\workspace\my_advanced_list\main.cpp
+	<iostream>
+	<list>
+	"list.h"
+
+1701115477 c:\users\imran\desktop\workspace\my_advanced_list\list.h
+	"list.cpp"
+
+1701115487 c:\users\imran\desktop\workspace\my_advanced_list\list.cpp
+	"list.h"
+
